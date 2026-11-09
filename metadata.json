@@ -1,0 +1,6 @@
+{
+  "name": "Chroma Pulse: Lumines Rhythm Puzzle",
+  "description": "A Lumines-style rhythm block puzzle game with upbeat procedural electronic music, beat-synced timeline sweeps, haptic feedback, and an AI stage backdrop studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
